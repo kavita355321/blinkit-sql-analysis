@@ -39,11 +39,10 @@ with the goal of identifying optimization opportunities using key performance in
 ## 📁 Project Structure
 
 blinkit_sql_analysis
-→ blinkit_data.csv         # Dataset used for SQL analysis
-→ SQLQuery.sql             # SQL queries for each business question
-→ analysis requirement.txt # Original business & chart requirements
-→ README.md                # Project overview (this file)
-
+→ blinkit_data.csv
+→ SQLQuery.sql
+→ analysis requirement.txt
+→ README.md
 
 ---
 
@@ -57,8 +56,6 @@ blinkit_sql_analysis
 
 ## 🧠 Insights Summary
 
-> Add here 3–5 key insights from your SQL analysis.
-Example:
 - Low-fat items contribute the highest revenue
 - Medium outlet sizes perform best in total sales
 - Newer outlets trend toward lower average ratings
