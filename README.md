@@ -38,11 +38,11 @@ with the goal of identifying optimization opportunities using key performance in
 
 ## 📁 Project Structure
 
-Blinkit_SQL_Analysis/
-├── blinkit_data.csv # Dataset used for SQL analysis
-├── SQLQuery.sql # SQL queries for each business question
-├── analysis requirement.txt # Original business & chart requirements
-└── README.md # Project overview (this file)
+blinkit_sql_analysis
+→ blinkit_data.csv         # Dataset used for SQL analysis
+→ SQLQuery.sql             # SQL queries for each business question
+→ analysis requirement.txt # Original business & chart requirements
+→ README.md                # Project overview (this file)
 
 
 ---
@@ -67,7 +67,7 @@ Example:
 
 ## 👩‍💻 About Me
 
-**Kavita** – Aspiring Data Analyst  
+**Kavita** 
 🎓 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
